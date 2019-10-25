@@ -1,0 +1,30 @@
+<!--aiueo-->
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <title>課題1</title>
+</head>
+<body>
+    <h1>久留米工業大学</h1>
+    <p>
+    <img src="images/01.png"alt="あああああ">
+    </p>
+    <table border = “2”> 
+    <tr><td>指名</td><td>原口裕人</td></tr>
+    <tr><td>生年月日</td><td>1999/12/14</td></tr>
+    <tr><td>血液型</td><td>B型</td></tr>
+    <tr><td>趣味</td><td>ゲーム</td></tr></table>
+    <h2>概要</h2>
+    <h3>建学の精神</h3>
+    <p>「人間味豊かな産業人に育成」を建学の精神としています</p>
+    <h3>規模</h3>
+    <p>およそ千人の学生が在籍しています</p>
+    <h2>リンク</h2>
+
+<p>
+　レポート課題１a href="https://e184134hh.github.io/kadai1.html">こちら</a>
+    
+    </p>
+<hr>
+<address>原口裕人　2019/10/25</address>
+</body>
