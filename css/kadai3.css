@@ -10,11 +10,12 @@ h2{
     text-align: center;
     background-color: aqua;
 }
+h3{
+    color:aquamarine;
 }
 p{
     font-size: 25px;
     font-weight: bold;
-    text-align: center;
     color: darkblue
 }
 body{
