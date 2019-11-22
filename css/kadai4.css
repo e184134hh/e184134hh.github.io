@@ -1,0 +1,27 @@
+h1{
+    color:coral;
+    font-family: "Inpact";
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+    color:coral;
+    font-family: "Inpact";
+    text-align: center;
+    background-color: aqua;
+}
+h3{
+    color:aquamarine;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue
+}
+body{
+    background-image: url("../images/01.png")
+}
+.a{
+    color:crimson;
+     background-color:aquamarine;
+}
