@@ -1,0 +1,43 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+div.menui1{
+    width: 800px;
+    height: 400px;
+     background-image: url(../images/poke2.jpg) ;
+    background-size: cover;
+    background-position:center center;
+    text-align: center;
+    font-size: 30px;
+}
+div.menui2{
+    width: 800px;
+    height: 800px;
+    background-image: url(../images/poke1.png) ;
+    background-size: cover;
+    background-position:center csharp;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
+div.menui3{
+    width: 800px;
+    height: 300px;
+    font-size: 30px;
+     margin-top: 10px;
+
+}    
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:aqua;
+    text-align:right;
+    font-size: 100px;
+    margin-top: 20px;
+}
